@@ -1,0 +1,7 @@
+.imageBorder {
+    border: 3px solid red;
+}
+
+.imageClean {
+    border: none;
+}
